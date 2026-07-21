@@ -61,6 +61,17 @@ A claim is bin C iff ANY of:
 3. The claim is stated at a level of vagueness that precludes operationalization.
 4. The claim invokes entities or mechanisms not connected to observables by any specified bridge principle.
 
+### Bin U — Unfalsifiable as formulated
+
+A claim is bin U iff ALL of:
+1. The report itself demonstrates that no experimental outcome could disconfirm the hypothesis as currently formulated.
+2. The hypothesis can always be reinterpreted or parameter-adjusted to survive any apparent falsification.
+3. This category is more severe than Bin C: Bin C means "no test exists YET" (unsupported/blocked); Bin U means "no test CAN exist without changing the hypothesis itself."
+
+Bin U is reserved for claims with qualitatively worse unfalsifiability: arbitrary free-parameter choice, no defined bridge to observables, or reliance on entities not connected to measurement by any specified principle.
+
+A U→C promotion requires: the claim must be reformulated with a fixed, operational bridge to observables such that at least one well-defined negative outcome is possible.
+
 ### Promotion gate (bin C → B, or bin B → A):
 
 A C→B promotion requires: the claim is restated with specific, operational content.
