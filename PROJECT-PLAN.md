@@ -64,7 +64,7 @@ This replaces Doc A's original non-sequitur ("photons don't obey Pauli exclusion
 | H3 track: Reversible computing + COTT | 1.3 | Review Bennett, Landauer, Bérut; assess COTT's claimed advantage analytically | `artifacts/lit-review-h3.md` (18 ext + 2 int sources) | ✅ Complete |
 | H4 track: Adelic/p-adic QM + quantum chaos | 1.4 | Review Volovich, Vladimirov, Rydberg chaos literature; tag scale assumptions | `artifacts/lit-review-h4.md` (22 ext + 8 int sources) | ✅ Complete |
 | Cross-cutting: Spin-statistics theorem | 1.5 | Compile theorem statement, assumptions, and which models (if any) circumvent it | `artifacts/spin-statistics-barrier.md` (11 sources, 4 circumvention routes) | ✅ Complete |
-| Cross-cutting: H4a scale estimate | 1.6 | Quantitative estimate: Planck-scale ultrametricity → Rydberg signal magnitude | `artifacts/h4a-scale-estimate.md` | ⬜ Pending |
+| Cross-cutting: H4a scale estimate | 1.6 | Quantitative estimate: Planck-scale ultrametricity → Rydberg signal magnitude | `artifacts/h4a-scale-estimate.md` (25-order bridge implausible, Bin C-) | ✅ Complete |
 
 ### Phase 1.5 — Pre-Registration Gate (Week 5–6)
 
