@@ -3,7 +3,7 @@
 **Project:** Photonic Substrate Hypotheses for Emergent Spacetime — Technical Audit  
 **Repository:** `qnfo-photon-audit`  
 **Date:** 2026-07-18  
-**Status:** Phase 0 — Scoping and Claim Decomposition (Active)  
+**Status:** Phase 1 — Literature Synthesis (Active) — H1-H4 lit reviews ✅, spin-statistics ✅  
 **Methodology:** Falsifiability-first, pre-registration-governed, bin-classified
 
 ---
@@ -48,10 +48,10 @@ This replaces Doc A's original non-sequitur ("photons don't obey Pauli exclusion
 | Task | ID | Description | Deliverable | Status |
 |---|---|---|---|---|
 | Formalize core claim | 0.1 | Lock the reformulated core claim as project charter preamble | Section 1.2 above | ✅ Complete |
-| Derive bin table | 0.2 | Independently re-argue bin assignment for H1–H5 from source literature | Updated bin table with per-row justification | 🔄 In progress |
-| Write audit rubric | 0.3 | Define evidence tags: [Est], [Open], [Unsup], [Blocked], [CE] | Rubric document in `notebooks/rubric.md` | ⬜ Pending |
-| Build seed bibliography | 0.4 | Annotated bibliography of ≥40 primary sources across 4 sub-literatures | `artifacts/seed-bibliography.md` | ⬜ Pending |
-| Project charter finalization | 0.5 | Freeze Phase 0 deliverables; tag as v0.1 | Git tag `v0.1-phase0` | ⬜ Pending |
+| Derive bin table | 0.2 | Independently re-argue bin assignment for H1–H5 from source literature | `notebooks/phase0-bin-table.md` (confirmed vs Doc E) | ✅ Complete |
+| Write audit rubric | 0.3 | Define evidence tags: [Est], [Open], [Unsup], [Blocked], [CE] | `notebooks/rubric.md` | ✅ Complete |
+| Build seed bibliography | 0.4 | Annotated bibliography of ≥40 primary sources across 4 sub-literatures | `artifacts/seed-bibliography.md` (42 sources) | ✅ Complete |
+| Project charter finalization | 0.5 | Freeze Phase 0 deliverables; tag as v0.1 | Git tag `v0.1-phase0` | ✅ Complete |
 
 ### Phase 1 — Literature Synthesis (Weeks 2–5)
 
@@ -59,11 +59,11 @@ This replaces Doc A's original non-sequitur ("photons don't obey Pauli exclusion
 
 | Task | ID | Description | Deliverable | Status |
 |---|---|---|---|---|
-| H1 track: EM-knot solitons + spinning solitons | 1.1 | Review Rañada, Trueba, Bouwmeester, Burinskii, Chernitskii; tag each source with bin | `artifacts/lit-review-h1.md` | ⬜ Pending |
-| H2 track: Holographic entanglement + geometry | 1.2 | Review RT formula, tensor-network/MERA, causal set theory; tag domain of applicability | `artifacts/lit-review-h2.md` | ⬜ Pending |
-| H3 track: Reversible computing + COTT | 1.3 | Review Bennett, Landauer, Bérut; assess COTT's claimed advantage analytically | `artifacts/lit-review-h3.md` | ⬜ Pending |
-| H4 track: Adelic/p-adic QM + quantum chaos | 1.4 | Review Volovich, Vladimirov, Rydberg chaos literature; tag scale assumptions | `artifacts/lit-review-h4.md` | ⬜ Pending |
-| Cross-cutting: Spin-statistics theorem | 1.5 | Compile theorem statement, assumptions, and which models (if any) circumvent it | `artifacts/spin-statistics-barrier.md` | ⬜ Pending |
+| H1 track: EM-knot solitons + spinning solitons | 1.1 | Review Rañada, Trueba, Bouwmeester, Burinskii, Chernitskii; tag each source with bin | `artifacts/lit-review-h1.md` (17 sources, B/A/C bins, 3 gaps) | ✅ Complete |
+| H2 track: Holographic entanglement + geometry | 1.2 | Review RT formula, tensor-network/MERA, causal set theory; tag domain of applicability | `artifacts/lit-review-h2.md` (24 ext + 5 int sources) | ✅ Complete |
+| H3 track: Reversible computing + COTT | 1.3 | Review Bennett, Landauer, Bérut; assess COTT's claimed advantage analytically | `artifacts/lit-review-h3.md` (18 ext + 2 int sources) | ✅ Complete |
+| H4 track: Adelic/p-adic QM + quantum chaos | 1.4 | Review Volovich, Vladimirov, Rydberg chaos literature; tag scale assumptions | `artifacts/lit-review-h4.md` (22 ext + 8 int sources) | ✅ Complete |
+| Cross-cutting: Spin-statistics theorem | 1.5 | Compile theorem statement, assumptions, and which models (if any) circumvent it | `artifacts/spin-statistics-barrier.md` (11 sources, 4 circumvention routes) | ✅ Complete |
 | Cross-cutting: H4a scale estimate | 1.6 | Quantitative estimate: Planck-scale ultrametricity → Rydberg signal magnitude | `artifacts/h4a-scale-estimate.md` | ⬜ Pending |
 
 ### Phase 1.5 — Pre-Registration Gate (Week 5–6)
