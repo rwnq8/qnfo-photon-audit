@@ -84,10 +84,10 @@ This replaces Doc A's original non-sequitur ("photons don't obey Pauli exclusion
 
 | Task | ID | Description | Deliverable | Status |
 |---|---|---|---|---|
-| H2a test | 2.1 | Design quantized Berry phase prediction for photonic vortex soliton; compare to literature data | `artifacts/h2a-test-results.md` | ⬜ Pending |
-| H4a spectroscopy | 2.2 | Spacing-statistic analysis on existing Rydberg datasets (literature data, not new experiment) | `artifacts/h4a-test-results.md` | ⬜ Pending |
-| H5 verification | 2.3 | Literature-verification of reversible logic calorimetry results near Landauer limit | `artifacts/h5-verification.md` | ⬜ Pending |
-| Promoted claims | 2.4 | Any claim promoted from bin B by Phase 1.5 gets its locked prediction compared to data here | Per-claim result doc | ⬜ Pending |
+| H2a test | 2.1 | Design quantized Berry phase prediction for photonic vortex soliton; compare to literature data | `artifacts/h2a-test-results.md` (INCONCLUSIVE — knot-specific Berry phase never measured; data gap) | ✅ Complete |
+| H4a spectroscopy | 2.2 | Spacing-statistic analysis on existing Rydberg datasets (literature data, not new experiment) | `artifacts/h4a-test-results.md` | 🚫 Blocked (Bin C-: no p-fixing principle, metric f(k) free — no testable prediction) |
+| H5 verification | 2.3 | Literature-verification of reversible logic calorimetry results near Landauer limit | `artifacts/h5-verification.md` (CONFIRMED — Landauer bound holds across 6 systems; reinforces H3 Bin C) | ✅ Complete |
+| Promoted claims | 2.4 | Any claim promoted from bin B by Phase 1.5 gets its locked prediction compared to data here | Per-claim result doc | 🚫 Blocked (0 claims promoted per gate-summary.md — no work applicable) |
 
 ### Phase 3 — Synthesis and Audit Report (Weeks 10–12)
 
