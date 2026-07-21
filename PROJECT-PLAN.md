@@ -72,11 +72,11 @@ This replaces Doc A's original non-sequitur ("photons don't obey Pauli exclusion
 
 | Task | ID | Description | Deliverable | Status |
 |---|---|---|---|---|
-| H1 gate | 1.5.1 | Attempt g-2 correction derivation from Kerr–Newman soliton machinery; lock or log | `artifacts/h1-gate-memo.md` | ⬜ Pending |
-| H2b gate | 1.5.2 | Attempt parameter-free knot→mass mapping; expected: no such mapping exists → bin C confirmed | `artifacts/h2b-gate-memo.md` | ⬜ Pending |
-| H3 gate | 1.5.3 | Resolve analytically: does COTT permit any operation standard reversible logic cannot? | `artifacts/h3-gate-memo.md` | ⬜ Pending |
-| H4b gate | 1.5.4 | Survey adelic literature for independent v_p fixing principle; expected: none exists → bin C confirmed | `artifacts/h4b-gate-memo.md` | ⬜ Pending |
-| Gate summary | 1.5.5 | Compile all gate memos; update bin table with promotions/demotions | `artifacts/gate-summary.md` | ⬜ Pending |
+| H1 gate | 1.5.1 | Attempt g-2 correction derivation from Kerr–Newman soliton machinery; lock or log | `artifacts/h1-gate-memo.md` (H1-G1: PASS, H1-G2: BLOCKED — no KN g-2 derivation exists) | ✅ Complete |
+| H2b gate | 1.5.2 | Attempt parameter-free knot→mass mapping; expected: no such mapping exists → bin C confirmed | `artifacts/h2b-gate-memo.md` (CONFIRMED BIN C — no parameter-free mapping exists) | ✅ Complete |
+| H3 gate | 1.5.3 | Resolve analytically: does COTT permit any operation standard reversible logic cannot? | `artifacts/h3-gate-memo.md` (CONFIRMED BIN C — zero external COTT validation; redundant with standard reversible logic) | ✅ Complete |
+| H4b gate | 1.5.4 | Survey adelic literature for independent v_p fixing principle; expected: none exists → bin C confirmed | `artifacts/h4b-gate-memo.md` (CONFIRMED BIN C — no p-fixing principle exists) | ✅ Complete |
+| Gate summary | 1.5.5 | Compile all gate memos; update bin table with promotions/demotions | `artifacts/gate-summary.md` (5 gates: 1 pass, 4 blocked. 0 promotions. Bin table final.) | ✅ Complete |
 
 ### Phase 2 — Runnable Tests (Weeks 6–10)
 
