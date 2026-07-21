@@ -95,10 +95,10 @@ This replaces Doc A's original non-sequitur ("photons don't obey Pauli exclusion
 
 | Task | ID | Description | Deliverable | Status |
 |---|---|---|---|---|
-| Verdict table | 3.1 | Final verdict table: all H1–H5 with bin, outcome, citations | Section in final report | ⬜ Pending |
-| Curve-fitting audit | 3.2 | Appendix listing every excluded "test" with reason | Section in final report | ⬜ Pending |
-| Draft report v1 | 3.3 | Full technical report: abstract, methodology, per-hypothesis audit, cross-cutting issues, verdicts | `releases/audit-report-v1.0.md` | ⬜ Pending |
-| Adversarial review | 3.4 | Check no Phase 2 result violates pre-registration rule; re-verify all derivations | Review memo | ⬜ Pending |
+| Verdict table | 3.1 | Final verdict table: all H1–H5 with bin, outcome, citations | `artifacts/verdict-table.md` (13 sub-hypotheses evaluated) | ✅ Complete |
+| Curve-fitting audit | 3.2 | Appendix listing every excluded "test" with reason | `artifacts/curve-fitting-audit.md` (8 excluded matches, 4-point checklist) | ✅ Complete |
+| Draft report v1 | 3.3 | Full technical report: abstract, methodology, per-hypothesis audit, cross-cutting issues, verdicts | `releases/audit-report-v1.0.md` (drafted, NOT yet publication-cleared — see 3.4) | ✅ Drafted |
+| Adversarial review | 3.4 | Check no Phase 2 result violates pre-registration rule; re-verify all derivations | `artifacts/adversarial-review.md` — **REVIEWER VERDICT: FAIL.** 4 MAJOR findings; report NOT cleared for external publication pending v1.1 revision | ⚠️ FAIL — v1.1 revision required |
 
 ### Phase 4 — External Sanity Check and Finalization (Weeks 12–14)
 
